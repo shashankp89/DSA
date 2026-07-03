@@ -34,8 +34,7 @@ You may use auxiliary space up to O(N) (call stack).
 
 
 */
-
-
+import java.util.Stack;
 class Solution {
     public void insert(int a, Stack<Integer> st){
 
