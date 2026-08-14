@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shashankp89/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashankp89/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shashankp89/DSA/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/shashankp89/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/shashankp89/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shashankp89/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/shashankp89/DSA/tree/master/0056-merge-intervals) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shashankp89/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/shashankp89/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
