@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shashankp89/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shashankp89/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shashankp89/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/shashankp89/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/shashankp89/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shashankp89/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashankp89/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shashankp89/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shashankp89/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shashankp89/DSA/tree/master/0268-missing-number) |
 ## Sorting
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shashankp89/DSA/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/shashankp89/DSA/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
