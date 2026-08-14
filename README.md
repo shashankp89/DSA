@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashankp89/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/shashankp89/DSA/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/shashankp89/DSA/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/shashankp89/DSA/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shashankp89/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Queue
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashankp89/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/shashankp89/DSA/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/shashankp89/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/shashankp89/DSA/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
