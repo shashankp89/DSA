@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/shashankp89/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/shashankp89/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shashankp89/DSA/tree/master/0268-missing-number) |
+| [1922-count-good-numbers](https://github.com/shashankp89/DSA/tree/master/1922-count-good-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -183,4 +184,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shashankp89/DSA/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/shashankp89/DSA/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
