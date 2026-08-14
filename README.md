@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shashankp89/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/shashankp89/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/shashankp89/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/shashankp89/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shashankp89/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shashankp89/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shashankp89/DSA/tree/master/0118-pascals-triangle) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shashankp89/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shashankp89/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/shashankp89/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/shashankp89/DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/shashankp89/DSA/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/shashankp89/DSA/tree/master/0875-koko-eating-bananas) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/shashankp89/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/shashankp89/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/shashankp89/DSA/tree/master/0074-search-a-2d-matrix) |
 ## Greedy
 |  |
 | ------- |
