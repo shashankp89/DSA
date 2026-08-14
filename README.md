@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shashankp89/DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/shashankp89/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/shashankp89/DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/shashankp89/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shashankp89/DSA/tree/master/0268-missing-number) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashankp89/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shashankp89/DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/shashankp89/DSA/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/shashankp89/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shashankp89/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashankp89/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shashankp89/DSA/tree/master/0136-single-number) |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shashankp89/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/shashankp89/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
