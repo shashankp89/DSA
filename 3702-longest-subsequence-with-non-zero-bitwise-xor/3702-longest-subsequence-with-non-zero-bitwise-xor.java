@@ -2,12 +2,12 @@ class Solution {
     public int longestSubsequence(int[] nums) {
         
         int totalXor = 0;
-        boolean hasNonZero = false;
+        boolean x = false;
         
         for(int i=0; i<nums.length; i++){
             totalXor ^= nums[i];
             if(nums[i] != 0){
-                hasNonZero = true;
+                x = true;
             }
         }
         
@@ -15,7 +15,7 @@ class Solution {
             return nums.length;
         }
         
-        if(hasNonZero){
+        if(x){
             return nums.length - 1;
         }
         
