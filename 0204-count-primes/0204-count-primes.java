@@ -2,23 +2,21 @@ class Solution {
     public int countPrimes(int n) {
         
         if(n <= 2) return 0;
-        
+         
+        int count = n / 2;
         boolean[] isComposite = new boolean[n];
-        
-        for(int i = 2; i * i < n; i++) {
+         
+        for(int i = 3; i * i < n; i += 2) {
+            
             if(!isComposite[i]) {
                  
-                for(int j = i * i; j < n; j += i) {
-                    isComposite[j] = true;
+                for(int j = i * i; j < n; j += 2 * i) {
+                    
+                    if(!isComposite[j]) {
+                        isComposite[j] = true;
+                        count--;  
+                    }
                 }
-            }
-        }
-        
-        int count = 0;
-        
-        for(int i = 2; i < n; i++) {
-            if(!isComposite[i]) {
-                count++;
             }
         }
         
