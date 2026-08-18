@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/shashankp89/DSA/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/shashankp89/DSA/tree/master/0146-lru-cache) |
+| [0237-delete-node-in-a-linked-list](https://github.com/shashankp89/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0460-lfu-cache](https://github.com/shashankp89/DSA/tree/master/0460-lfu-cache) |
 ## Design
 |  |
