@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shashankp89/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shashankp89/DSA/tree/master/0268-missing-number) |
 | [0460-lfu-cache](https://github.com/shashankp89/DSA/tree/master/0460-lfu-cache) |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/shashankp89/DSA/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shashankp89/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Linked List
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/shashankp89/DSA/tree/master/0485-max-consecutive-ones) |
 | [0810-chalkboard-xor-game](https://github.com/shashankp89/DSA/tree/master/0810-chalkboard-xor-game) |
 | [0875-koko-eating-bananas](https://github.com/shashankp89/DSA/tree/master/0875-koko-eating-bananas) |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/shashankp89/DSA/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shashankp89/DSA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shashankp89/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shashankp89/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shashankp89/DSA/tree/master/0268-missing-number) |
 | [0810-chalkboard-xor-game](https://github.com/shashankp89/DSA/tree/master/0810-chalkboard-xor-game) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/shashankp89/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/shashankp89/DSA/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shashankp89/DSA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shashankp89/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shashankp89/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
