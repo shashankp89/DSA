@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shashankp89/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shashankp89/DSA/tree/master/0485-max-consecutive-ones) |
 | [0875-koko-eating-bananas](https://github.com/shashankp89/DSA/tree/master/0875-koko-eating-bananas) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shashankp89/DSA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shashankp89/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shashankp89/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shashankp89/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -89,10 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/shashankp89/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shashankp89/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/shashankp89/DSA/tree/master/0239-sliding-window-maximum) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shashankp89/DSA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Sliding Window
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shashankp89/DSA/tree/master/0239-sliding-window-maximum) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shashankp89/DSA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shashankp89/DSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/shashankp89/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/shashankp89/DSA/tree/master/0268-missing-number) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shashankp89/DSA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shashankp89/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shashankp89/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/shashankp89/DSA/tree/master/0410-split-array-largest-sum) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shashankp89/DSA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## String
 |  |
 | ------- |
@@ -285,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/shashankp89/DSA/tree/master/0139-word-break) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shashankp89/DSA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Quickselect
 |  |
 | ------- |
