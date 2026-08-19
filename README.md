@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shashankp89/DSA/tree/master/0268-missing-number) |
 | [0460-lfu-cache](https://github.com/shashankp89/DSA/tree/master/0460-lfu-cache) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/shashankp89/DSA/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
+| [1386-cinema-seat-allocation](https://github.com/shashankp89/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shashankp89/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Linked List
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shashankp89/DSA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shashankp89/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shashankp89/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1386-cinema-seat-allocation](https://github.com/shashankp89/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shashankp89/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/shashankp89/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/shashankp89/DSA/tree/master/1563-stone-game-v) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/shashankp89/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/shashankp89/DSA/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shashankp89/DSA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1386-cinema-seat-allocation](https://github.com/shashankp89/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/shashankp89/DSA/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shashankp89/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shashankp89/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/shashankp89/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/shashankp89/DSA/tree/master/0455-assign-cookies) |
+| [1386-cinema-seat-allocation](https://github.com/shashankp89/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/shashankp89/DSA/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
