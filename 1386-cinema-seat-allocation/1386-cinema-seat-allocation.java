@@ -3,28 +3,28 @@ import java.util.HashMap;
 class Solution {
     public int maxNumberOfFamilies(int n, int[][] rs) {
         
-        HashMap<Integer, boolean[]> m = new HashMap<>();
+        HashMap<Integer, Integer> m = new HashMap<>();
         int l = rs.length;
         
         for(int i = 0; i < l; i = i + 1){
             int r = rs[i][0];
             int c = rs[i][1];
             
-            if(m.containsKey(r) == false){
-                m.put(r, new boolean[11]);
+            if(m.containsKey(r) == true){
+                m.put(r, m.get(r) | (1 << c));
+            } else {
+                m.put(r, 1 << c);
             }
-            
-            m.get(r)[c] = true;
         }
         
         int ans = (n - m.size()) * 2;
         
         for(int k : m.keySet()){
-            boolean[] s = m.get(k);
+            int v = m.get(k);
             
-            boolean lf = s[2] == false && s[3] == false && s[4] == false && s[5] == false;
-            boolean rt = s[6] == false && s[7] == false && s[8] == false && s[9] == false;
-            boolean md = s[4] == false && s[5] == false && s[6] == false && s[7] == false;
+            boolean lf = (v & 60) == 0;
+            boolean rt = (v & 960) == 0;
+            boolean md = (v & 240) == 0;
             
             if(lf == true && rt == true){
                 ans = ans + 2;
