@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/shashankp89/DSA/tree/master/0460-lfu-cache) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/shashankp89/DSA/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/shashankp89/DSA/tree/master/1386-cinema-seat-allocation) |
+| [2206-divide-array-into-equal-pairs](https://github.com/shashankp89/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shashankp89/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Linked List
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/shashankp89/DSA/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2029-stone-game-ix](https://github.com/shashankp89/DSA/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shashankp89/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2206-divide-array-into-equal-pairs](https://github.com/shashankp89/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shashankp89/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shashankp89/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shashankp89/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shashankp89/DSA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1386-cinema-seat-allocation](https://github.com/shashankp89/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/shashankp89/DSA/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
+| [2206-divide-array-into-equal-pairs](https://github.com/shashankp89/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shashankp89/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shashankp89/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shashankp89/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shashankp89/DSA/tree/master/0229-majority-element-ii) |
 | [2029-stone-game-ix](https://github.com/shashankp89/DSA/tree/master/2029-stone-game-ix) |
+| [2206-divide-array-into-equal-pairs](https://github.com/shashankp89/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
