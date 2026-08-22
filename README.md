@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shashankp89/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shashankp89/DSA/tree/master/0268-missing-number) |
 | [0460-lfu-cache](https://github.com/shashankp89/DSA/tree/master/0460-lfu-cache) |
+| [0560-subarray-sum-equals-k](https://github.com/shashankp89/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/shashankp89/DSA/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/shashankp89/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2206-divide-array-into-equal-pairs](https://github.com/shashankp89/DSA/tree/master/2206-divide-array-into-equal-pairs) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/shashankp89/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/shashankp89/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shashankp89/DSA/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/shashankp89/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0810-chalkboard-xor-game](https://github.com/shashankp89/DSA/tree/master/0810-chalkboard-xor-game) |
 | [0875-koko-eating-bananas](https://github.com/shashankp89/DSA/tree/master/0875-koko-eating-bananas) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/shashankp89/DSA/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/shashankp89/DSA/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/shashankp89/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shashankp89/DSA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## String
 |  |
