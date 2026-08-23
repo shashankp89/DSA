@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/shashankp89/DSA/tree/master/1563-stone-game-v) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/shashankp89/DSA/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1922-count-good-numbers](https://github.com/shashankp89/DSA/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/shashankp89/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shashankp89/DSA/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shashankp89/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shashankp89/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/shashankp89/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/shashankp89/DSA/tree/master/0455-assign-cookies) |
 | [1386-cinema-seat-allocation](https://github.com/shashankp89/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/shashankp89/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shashankp89/DSA/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/shashankp89/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/shashankp89/DSA/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/shashankp89/DSA/tree/master/0344-reverse-string) |
+| [1927-sum-game](https://github.com/shashankp89/DSA/tree/master/1927-sum-game) |
 ## Recursion
 |  |
 | ------- |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/shashankp89/DSA/tree/master/0810-chalkboard-xor-game) |
 | [1563-stone-game-v](https://github.com/shashankp89/DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/shashankp89/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shashankp89/DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
