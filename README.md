@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/shashankp89/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shashankp89/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shashankp89/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shashankp89/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shashankp89/DSA/tree/master/0229-majority-element-ii) |
 | [2029-stone-game-ix](https://github.com/shashankp89/DSA/tree/master/2029-stone-game-ix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/shashankp89/DSA/tree/master/2206-divide-array-into-equal-pairs) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shashankp89/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/shashankp89/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/shashankp89/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shashankp89/DSA/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shashankp89/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shashankp89/DSA/tree/master/0344-reverse-string) |
 | [1927-sum-game](https://github.com/shashankp89/DSA/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shashankp89/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shashankp89/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Recursion
 |  |
 | ------- |
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shashankp89/DSA/tree/master/0204-count-primes) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shashankp89/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
