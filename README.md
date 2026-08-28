@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/shashankp89/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0460-lfu-cache](https://github.com/shashankp89/DSA/tree/master/0460-lfu-cache) |
 | [0817-linked-list-components](https://github.com/shashankp89/DSA/tree/master/0817-linked-list-components) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/shashankp89/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Design
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shashankp89/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/shashankp89/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shashankp89/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Matrix
 |  |
