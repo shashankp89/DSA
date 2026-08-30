@@ -1,41 +1,41 @@
 class Solution {
-    public int minimumDeletions(int[] nums) {
-        int n=nums.length;
-
-        if(n==1){
-            return 1;
-        }
-        int maxstep=0;
-        int minstep=0;
-
-        int max=Integer.MIN_VALUE;
-        int min=Integer.MAX_VALUE;
-
-
-        for(int i=0;i<n;i++){
-            max=Math.max(max,nums[i]);
-            min=Math.min(min,nums[i]);
-        }
-
-        for(int i=0;i<n;i++){
-            if(nums[i]==max){
-                maxstep=i;
+    public int minimumDeletions(int[] a) {
+        
+        int n = a.length;
+        int id1 = 0;
+        int id2 = 0;
+        
+        for(int i = 1; i < n; i = i + 1){
+            if(a[i] < a[id1]){
+                id1 = i;
             }
-            if(nums[i]==min){
-                minstep=i;
+            if(a[i] > a[id2]){
+                id2 = i;
             }
         }
         
-        int ans1= Math.max(maxstep,minstep)+1;
-        int ans2= Math.max(n-maxstep,n-minstep);
-        int ans3= 0;
-        if(maxstep>minstep){
-            ans3= n-maxstep + minstep+1;
-        }else{
-            ans3= n-minstep + maxstep+1;
-        }
-
-        return Math.min(ans1, Math.min(ans2,ans3));
+        int lf = id1;
+        int rt = id2;
         
+        if(id1 > id2){
+            lf = id2;
+            rt = id1;
+        }
+        
+        int p1 = rt + 1;
+        int p2 = n - lf;
+        int p3 = (lf + 1) + (n - rt);
+        
+        int ans = p1;
+        
+        if(p2 < ans){
+            ans = p2;
+        }
+        
+        if(p3 < ans){
+            ans = p3;
+        }
+        
+        return ans;
     }
 }
