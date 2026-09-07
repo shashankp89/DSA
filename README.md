@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/shashankp89/DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/shashankp89/DSA/tree/master/0509-fibonacci-number) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/shashankp89/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0940-distinct-subsequences-ii](https://github.com/shashankp89/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/shashankp89/DSA/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/shashankp89/DSA/tree/master/1872-stone-game-viii) |
 ## Simulation
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/shashankp89/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/shashankp89/DSA/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/shashankp89/DSA/tree/master/0344-reverse-string) |
+| [0940-distinct-subsequences-ii](https://github.com/shashankp89/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/shashankp89/DSA/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shashankp89/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shashankp89/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
