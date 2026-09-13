@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shashankp89/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0810-chalkboard-xor-game](https://github.com/shashankp89/DSA/tree/master/0810-chalkboard-xor-game) |
 | [0817-linked-list-components](https://github.com/shashankp89/DSA/tree/master/0817-linked-list-components) |
+| [0835-image-overlap](https://github.com/shashankp89/DSA/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/shashankp89/DSA/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/shashankp89/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/shashankp89/DSA/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shashankp89/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shashankp89/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/shashankp89/DSA/tree/master/0079-word-search) |
+| [0835-image-overlap](https://github.com/shashankp89/DSA/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shashankp89/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Greedy
 |  |
