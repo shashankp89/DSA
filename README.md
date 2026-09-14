@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shashankp89/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/shashankp89/DSA/tree/master/0509-fibonacci-number) |
 | [0810-chalkboard-xor-game](https://github.com/shashankp89/DSA/tree/master/0810-chalkboard-xor-game) |
+| [0836-rectangle-overlap](https://github.com/shashankp89/DSA/tree/master/0836-rectangle-overlap) |
 | [0970-powerful-integers](https://github.com/shashankp89/DSA/tree/master/0970-powerful-integers) |
 | [1563-stone-game-v](https://github.com/shashankp89/DSA/tree/master/1563-stone-game-v) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/shashankp89/DSA/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -495,4 +496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shashankp89/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/shashankp89/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
