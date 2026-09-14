@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shashankp89/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shashankp89/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shashankp89/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/shashankp89/DSA/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/shashankp89/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shashankp89/DSA/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/shashankp89/DSA/tree/master/0048-rotate-image) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shashankp89/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shashankp89/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/shashankp89/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shashankp89/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/shashankp89/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/shashankp89/DSA/tree/master/0268-missing-number) |
