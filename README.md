@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0810-chalkboard-xor-game](https://github.com/shashankp89/DSA/tree/master/0810-chalkboard-xor-game) |
 | [0836-rectangle-overlap](https://github.com/shashankp89/DSA/tree/master/0836-rectangle-overlap) |
 | [0970-powerful-integers](https://github.com/shashankp89/DSA/tree/master/0970-powerful-integers) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/shashankp89/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/shashankp89/DSA/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shashankp89/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/shashankp89/DSA/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shashankp89/DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/shashankp89/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Newton's Method
 |  |
 | ------- |
