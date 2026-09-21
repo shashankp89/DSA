@@ -1,25 +1,26 @@
 class Solution {
     public long[] resultArray(int[] nums, int k) {
-        int n = nums.length;
         long[] ans = new long[k];
-        long[][] dp = new long[n][k];
+        long[] dp = new long[k];
         
-        for (int i = 0; i < n; i++) {
-            int numMod = nums[i] % k;
-            dp[i][numMod] += 1;
+        for (int num : nums) {
+            long[] nextDp = new long[k];
+            int numMod = num % k;
             
-            if (i > 0) {
-                for (int r = 0; r < k; r++) {
-                    if (dp[i - 1][r] > 0) {
-                        int nextMod = (int) ((1L * r * numMod) % k);
-                        dp[i][nextMod] += dp[i - 1][r];
-                    }
+            nextDp[numMod] += 1;
+            
+            for (int r = 0; r < k; r++) {
+                if (dp[r] > 0) {
+                    int nextMod = (int) ((1L * r * numMod) % k);
+                    nextDp[nextMod] += dp[r];
                 }
             }
             
             for (int r = 0; r < k; r++) {
-                ans[r] += dp[i][r];
+                ans[r] += nextDp[r];
             }
+            
+            dp = nextDp;
         }
         
         return ans;
