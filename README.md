@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/shashankp89/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0970-powerful-integers](https://github.com/shashankp89/DSA/tree/master/0970-powerful-integers) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/shashankp89/DSA/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
+| [1096-brace-expansion-ii](https://github.com/shashankp89/DSA/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/shashankp89/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shashankp89/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shashankp89/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shashankp89/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shashankp89/DSA/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/shashankp89/DSA/tree/master/0455-assign-cookies) |
+| [1096-brace-expansion-ii](https://github.com/shashankp89/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shashankp89/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shashankp89/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shashankp89/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/shashankp89/DSA/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/shashankp89/DSA/tree/master/0344-reverse-string) |
 | [0940-distinct-subsequences-ii](https://github.com/shashankp89/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/shashankp89/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shashankp89/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/shashankp89/DSA/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shashankp89/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/shashankp89/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/shashankp89/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/shashankp89/DSA/tree/master/0216-combination-sum-iii) |
+| [1096-brace-expansion-ii](https://github.com/shashankp89/DSA/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -453,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/shashankp89/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shashankp89/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shashankp89/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [1096-brace-expansion-ii](https://github.com/shashankp89/DSA/tree/master/1096-brace-expansion-ii) |
 ## Minimax
 |  |
 | ------- |
@@ -513,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/shashankp89/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1096-brace-expansion-ii](https://github.com/shashankp89/DSA/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shashankp89/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
