@@ -7,18 +7,20 @@ class Solution {
             dict.put(pair.get(0), pair.get(1));
         }
         
-        StringBuilder result = new StringBuilder();
-        int i = 0;
+        StringBuilder result = new StringBuilder(s.length());
+        int start = -1;
         
-        while (i < s.length()) {
-            if (s.charAt(i) == '(') {
-                int end = s.indexOf(')', i);
-                String key = s.substring(i + 1, end);
+        for (int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+            
+            if (c == '(') {
+                start = i;
+            } else if (c == ')') {
+                String key = s.substring(start + 1, i);
                 result.append(dict.getOrDefault(key, "?"));
-                i = end + 1;
-            } else {
-                result.append(s.charAt(i));
-                i++;
+                start = -1;
+            } else if (start == -1) {
+                result.append(c);
             }
         }
         
