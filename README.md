@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shashankp89/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/shashankp89/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/shashankp89/DSA/tree/master/0139-word-break) |
+| [0301-remove-invalid-parentheses](https://github.com/shashankp89/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/shashankp89/DSA/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/shashankp89/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shashankp89/DSA/tree/master/0856-score-of-parentheses) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/shashankp89/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/shashankp89/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/shashankp89/DSA/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/shashankp89/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/shashankp89/DSA/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/shashankp89/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/shashankp89/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1096-brace-expansion-ii](https://github.com/shashankp89/DSA/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shashankp89/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
