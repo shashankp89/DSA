@@ -1,53 +1,47 @@
-import java.util.Arrays;
-
 class Solution {
+
     public int minSwaps(int[] nums) {
         int n = nums.length;
-        int[][] target = new int[n][2];
-        
+        int[] digitSum = new int[n];
         for (int i = 0; i < n; i++) {
-            target[i][0] = nums[i];
-            target[i][1] = i;
+            int x = nums[i],
+                sum = 0;
+            while (x > 0) {
+                sum += x % 10;
+                x /= 10;
+            }
+            digitSum[i] = sum;
         }
-        
-        Arrays.sort(target, (a, b) -> {
-            int sumA = getDigitSum(a[0]);
-            int sumB = getDigitSum(b[0]);
-            if (sumA != sumB) return Integer.compare(sumA, sumB);
-            return Integer.compare(a[0], b[0]);
+
+        Integer[] indices = new Integer[n];
+        for (int i = 0; i < n; i++) {
+            indices[i] = i;
+        }
+        Arrays.sort(indices, (a, b) -> {
+            if (digitSum[a] != digitSum[b]) {
+                return Integer.compare(digitSum[a], digitSum[b]);
+            }
+            return Integer.compare(nums[a], nums[b]);
         });
-        
+
+        int[] targetPos = new int[n];
+        for (int pos = 0; pos < n; pos++) {
+            targetPos[indices[pos]] = pos;
+        }
+
         boolean[] visited = new boolean[n];
-        int swaps = 0;
-        
+        int cycles = 0;
         for (int i = 0; i < n; i++) {
-            if (visited[i] || target[i][1] == i) {
-                continue;
-            }
-            
-            int cycleSize = 0;
-            int j = i;
-            
-            while (!visited[j]) {
-                visited[j] = true;
-                j = target[j][1];
-                cycleSize++;
-            }
-            
-            if (cycleSize > 1) {
-                swaps += (cycleSize - 1);
+            if (!visited[i]) {
+                cycles++;
+                int j = i;
+                while (!visited[j]) {
+                    visited[j] = true;
+                    j = targetPos[j];
+                }
             }
         }
-        
-        return swaps;
-    }
-    
-    private int getDigitSum(int num) {
-        int sum = 0;
-        while (num > 0) {
-            sum += num % 10;
-            num /= 10;
-        }
-        return sum;
+
+        return n - cycles;
     }
 }
