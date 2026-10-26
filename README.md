@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/shashankp89/DSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/shashankp89/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shashankp89/DSA/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/shashankp89/DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/shashankp89/DSA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashankp89/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/shashankp89/DSA/tree/master/0216-combination-sum-iii) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shashankp89/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shashankp89/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/shashankp89/DSA/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/shashankp89/DSA/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/shashankp89/DSA/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shashankp89/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shashankp89/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shashankp89/DSA/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/shashankp89/DSA/tree/master/0200-number-of-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shashankp89/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shashankp89/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Algorithm X
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shashankp89/DSA/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/shashankp89/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/shashankp89/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1096-brace-expansion-ii](https://github.com/shashankp89/DSA/tree/master/1096-brace-expansion-ii) |
@@ -607,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shashankp89/DSA/tree/master/0200-number-of-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shashankp89/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shashankp89/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shashankp89/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
