@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shashankp89/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shashankp89/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shashankp89/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0665-non-decreasing-array](https://github.com/shashankp89/DSA/tree/master/0665-non-decreasing-array) |
 | [0810-chalkboard-xor-game](https://github.com/shashankp89/DSA/tree/master/0810-chalkboard-xor-game) |
 | [0817-linked-list-components](https://github.com/shashankp89/DSA/tree/master/0817-linked-list-components) |
 | [0835-image-overlap](https://github.com/shashankp89/DSA/tree/master/0835-image-overlap) |
